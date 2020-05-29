@@ -1,0 +1,36 @@
+{
+  "ver": "2.3.4",
+  "uuid": "ed41e51c-2114-4d3e-89d4-2c0ebed8d45f",
+  "type": "sprite",
+  "wrapMode": "clamp",
+  "filterMode": "bilinear",
+  "premultiplyAlpha": false,
+  "genMipmaps": false,
+  "packable": true,
+  "width": 1080,
+  "height": 720,
+  "platformSettings": {},
+  "subMetas": {
+    "测体温": {
+      "ver": "1.0.4",
+      "uuid": "70f78ce1-7c7b-469b-b6df-1f4a4a0a10a9",
+      "rawTextureUuid": "ed41e51c-2114-4d3e-89d4-2c0ebed8d45f",
+      "trimType": "auto",
+      "trimThreshold": 1,
+      "rotated": false,
+      "offsetX": 0,
+      "offsetY": 0,
+      "trimX": 0,
+      "trimY": 0,
+      "width": 1080,
+      "height": 720,
+      "rawWidth": 1080,
+      "rawHeight": 720,
+      "borderTop": 0,
+      "borderBottom": 0,
+      "borderLeft": 0,
+      "borderRight": 0,
+      "subMetas": {}
+    }
+  }
+}

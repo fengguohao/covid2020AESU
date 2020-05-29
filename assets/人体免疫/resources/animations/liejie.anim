@@ -1,0 +1,61 @@
+{
+  "__type__": "cc.AnimationClip",
+  "_name": "liejie",
+  "_objFlags": 0,
+  "_native": "",
+  "_duration": 0.62,
+  "sample": 50,
+  "speed": 1,
+  "wrapMode": 1,
+  "curveData": {
+    "comps": {
+      "cc.Sprite": {
+        "spriteFrame": [
+          {
+            "frame": 0,
+            "value": {
+              "__uuid__": "2fe2b23d-26a3-48a0-9913-e63e1cf19519"
+            }
+          },
+          {
+            "frame": 0.1,
+            "value": {
+              "__uuid__": "5f567e6d-28f6-454c-8a4c-fdb7e1f8be42"
+            }
+          },
+          {
+            "frame": 0.2,
+            "value": {
+              "__uuid__": "0d455733-24b2-458e-acb1-17d3e21a81ab"
+            }
+          },
+          {
+            "frame": 0.3,
+            "value": {
+              "__uuid__": "e7f79665-2f1a-4f4f-b0f5-289022ea5b54"
+            }
+          },
+          {
+            "frame": 0.4,
+            "value": {
+              "__uuid__": "7088ee54-6030-45a8-b6ca-7e198b6fb69a"
+            }
+          },
+          {
+            "frame": 0.5,
+            "value": {
+              "__uuid__": "e3a5e1de-5375-4ae2-a504-ef17058f327c"
+            }
+          },
+          {
+            "frame": 0.6,
+            "value": {
+              "__uuid__": "a4d13d9f-7e87-49b5-a8f9-63b299dbe9e3"
+            }
+          }
+        ]
+      }
+    }
+  },
+  "events": []
+}

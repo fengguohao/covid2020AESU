@@ -1,0 +1,36 @@
+{
+  "ver": "2.3.4",
+  "uuid": "cd099dff-b3dc-4f1a-8f20-576d5dd8f0b9",
+  "type": "sprite",
+  "wrapMode": "clamp",
+  "filterMode": "bilinear",
+  "premultiplyAlpha": false,
+  "genMipmaps": false,
+  "packable": true,
+  "width": 328,
+  "height": 227,
+  "platformSettings": {},
+  "subMetas": {
+    "细胞培养": {
+      "ver": "1.0.4",
+      "uuid": "04b76ffe-4665-41dd-a181-b18b5a6d031c",
+      "rawTextureUuid": "cd099dff-b3dc-4f1a-8f20-576d5dd8f0b9",
+      "trimType": "auto",
+      "trimThreshold": 1,
+      "rotated": false,
+      "offsetX": 0,
+      "offsetY": 0,
+      "trimX": 0,
+      "trimY": 0,
+      "width": 328,
+      "height": 227,
+      "rawWidth": 328,
+      "rawHeight": 227,
+      "borderTop": 0,
+      "borderBottom": 0,
+      "borderLeft": 0,
+      "borderRight": 0,
+      "subMetas": {}
+    }
+  }
+}

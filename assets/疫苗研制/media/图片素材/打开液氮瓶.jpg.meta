@@ -1,0 +1,36 @@
+{
+  "ver": "2.3.4",
+  "uuid": "16ac1321-864e-4229-bb87-a2de59fe2936",
+  "type": "sprite",
+  "wrapMode": "clamp",
+  "filterMode": "bilinear",
+  "premultiplyAlpha": false,
+  "genMipmaps": false,
+  "packable": true,
+  "width": 269,
+  "height": 264,
+  "platformSettings": {},
+  "subMetas": {
+    "打开液氮瓶": {
+      "ver": "1.0.4",
+      "uuid": "f63592c9-0276-4e66-b4a8-10bf67097dda",
+      "rawTextureUuid": "16ac1321-864e-4229-bb87-a2de59fe2936",
+      "trimType": "auto",
+      "trimThreshold": 1,
+      "rotated": false,
+      "offsetX": 0,
+      "offsetY": 0,
+      "trimX": 0,
+      "trimY": 0,
+      "width": 269,
+      "height": 264,
+      "rawWidth": 269,
+      "rawHeight": 264,
+      "borderTop": 0,
+      "borderBottom": 0,
+      "borderLeft": 0,
+      "borderRight": 0,
+      "subMetas": {}
+    }
+  }
+}

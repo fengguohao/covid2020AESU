@@ -1,0 +1,61 @@
+{
+  "__type__": "cc.AnimationClip",
+  "_name": "Thuohua",
+  "_objFlags": 0,
+  "_native": "",
+  "_duration": 0.62,
+  "sample": 50,
+  "speed": 1,
+  "wrapMode": 1,
+  "curveData": {
+    "comps": {
+      "cc.Sprite": {
+        "spriteFrame": [
+          {
+            "frame": 0,
+            "value": {
+              "__uuid__": "56e69f04-72f2-4a7f-a9dc-5a7ea36d0c4d"
+            }
+          },
+          {
+            "frame": 0.1,
+            "value": {
+              "__uuid__": "0804ffa1-2af0-4653-86b7-e488b0cb54f2"
+            }
+          },
+          {
+            "frame": 0.2,
+            "value": {
+              "__uuid__": "56e69f04-72f2-4a7f-a9dc-5a7ea36d0c4d"
+            }
+          },
+          {
+            "frame": 0.3,
+            "value": {
+              "__uuid__": "0804ffa1-2af0-4653-86b7-e488b0cb54f2"
+            }
+          },
+          {
+            "frame": 0.4,
+            "value": {
+              "__uuid__": "56e69f04-72f2-4a7f-a9dc-5a7ea36d0c4d"
+            }
+          },
+          {
+            "frame": 0.5,
+            "value": {
+              "__uuid__": "0804ffa1-2af0-4653-86b7-e488b0cb54f2"
+            }
+          },
+          {
+            "frame": 0.6,
+            "value": {
+              "__uuid__": "56e69f04-72f2-4a7f-a9dc-5a7ea36d0c4d"
+            }
+          }
+        ]
+      }
+    }
+  },
+  "events": []
+}

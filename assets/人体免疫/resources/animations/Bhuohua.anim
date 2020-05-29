@@ -1,0 +1,61 @@
+{
+  "__type__": "cc.AnimationClip",
+  "_name": "Bhuohua",
+  "_objFlags": 0,
+  "_native": "",
+  "_duration": 0.62,
+  "sample": 50,
+  "speed": 1,
+  "wrapMode": 1,
+  "curveData": {
+    "comps": {
+      "cc.Sprite": {
+        "spriteFrame": [
+          {
+            "frame": 0,
+            "value": {
+              "__uuid__": "ea38dbbb-7828-4ba4-9c41-96d0e63833e9"
+            }
+          },
+          {
+            "frame": 0.1,
+            "value": {
+              "__uuid__": "bc546d19-07d8-462e-9109-d12c23a1d75c"
+            }
+          },
+          {
+            "frame": 0.2,
+            "value": {
+              "__uuid__": "ea38dbbb-7828-4ba4-9c41-96d0e63833e9"
+            }
+          },
+          {
+            "frame": 0.3,
+            "value": {
+              "__uuid__": "bc546d19-07d8-462e-9109-d12c23a1d75c"
+            }
+          },
+          {
+            "frame": 0.4,
+            "value": {
+              "__uuid__": "ea38dbbb-7828-4ba4-9c41-96d0e63833e9"
+            }
+          },
+          {
+            "frame": 0.5,
+            "value": {
+              "__uuid__": "bc546d19-07d8-462e-9109-d12c23a1d75c"
+            }
+          },
+          {
+            "frame": 0.6,
+            "value": {
+              "__uuid__": "ea38dbbb-7828-4ba4-9c41-96d0e63833e9"
+            }
+          }
+        ]
+      }
+    }
+  },
+  "events": []
+}
